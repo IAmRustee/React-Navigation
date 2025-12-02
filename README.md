@@ -64,17 +64,17 @@ npm run web
 
 ## Screenshots
 
-![Alt text](assets/home.png "Optional title")
-![Alt text](assets/details.png "Optional title")
-![Alt text](assets/profiles.png "Optional title")
+![Alt text](assets/home.png "Home")
+![Alt text](assets/details.png "Details")
+![Alt text](assets/profiles.png "Profiles")
 
 ## Challenges Faced
 
-[Describe any challenges you encountered and how you resolved them]
+Adding a new page was kind of a challenge. I just forgot to add it to the main file App.js
 
 ## Learning Outcomes
 
-[Describe what you learned from this lab activity]
+I learned the basics of react applications. Maybe next time I should be able to add something more complex to my future react applications haha.
 
 ## References
 
