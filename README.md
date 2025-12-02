@@ -64,7 +64,9 @@ npm run web
 
 ## Screenshots
 
-[Add screenshots of your running app here]
+![Alt text](assets/home.png "Optional title")
+![Alt text](assets/details.png "Optional title")
+![Alt text](assets/profile.png "Optional title")
 
 ## Challenges Faced
 
