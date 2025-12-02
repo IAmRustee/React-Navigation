@@ -4,15 +4,13 @@ import { View, Text, Button, StyleSheet } from 'react-native';
 export default function HomeScreen({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Home Screen</Text>
-      <Text style={styles.subtitle}>Welcome to React Native Navigation!</Text>
+      <Text style={styles.title}>IAmRustee</Text>
+      <Text style={styles.subtitle}>Welcome to Rustee's Profile!</Text>
+      <Text style={styles.subtitle}>You are currenly viewing Artificial Sentience Rustee v8817.19.1</Text>
+      <Text style={styles.subtitle}>Rustee is currently too busy to converse. Please come back later!</Text>
       <Button
-        title="Go to Details"
-        onPress={() => navigation.navigate('Details')}
-      />
-      <Button
-        title="Go to Profiles"
-        onPress={() => navigation.navigate('profiles')}
+        title="Back to Home"
+        onPress={() => navigation.navigate('Home')}
       />
     </View>
   );
