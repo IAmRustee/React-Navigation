@@ -4,10 +4,10 @@ A React Native application demonstrating stack navigation using React Navigation
 
 ## Student Information
 
-- **Name:** [Your Full Name]
-- **Student ID:** [Your ID]
+- **Name:** Delwin P. Vidallon
+- **Student ID:** 202302248
 - **Course:** Mobile Application Development
-- **Date:** [Submission Date]
+- **Date:** 02/12/2025
 
 ## Features
 
