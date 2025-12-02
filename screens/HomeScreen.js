@@ -12,7 +12,7 @@ export default function HomeScreen({ navigation }) {
       />
       <Button
         title="Go to Profiles"
-        onPress={() => navigation.navigate('profiles')}
+        onPress={() => navigation.navigate('Profiles')}
       />
     </View>
   );
