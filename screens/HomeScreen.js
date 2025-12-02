@@ -10,6 +10,7 @@ export default function HomeScreen({ navigation }) {
         title="Go to Details"
         onPress={() => navigation.navigate('Details')}
       />
+      <View style={styles.spacer} />
       <Button
         title="Go to Profiles"
         onPress={() => navigation.navigate('Profiles')}
@@ -36,5 +37,8 @@ const styles = StyleSheet.create({
     color: '#666',
     marginBottom: 20,
     textAlign: 'center',
+  },
+  spacer: {
+    height: 10,
   },
 });
